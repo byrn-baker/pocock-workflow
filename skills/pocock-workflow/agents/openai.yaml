@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pocock Spec Kit Workflow"
+  short_description: "Spec Kit execution and portable agent handoffs"
+  default_prompt: "Use $pocock-workflow to continue this project's next scoped Spec Kit task with the relevant engineering skills and verified acceptance checks."
