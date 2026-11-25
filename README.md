@@ -8,6 +8,10 @@ An agent skill that combines [Matt Pocock's engineering skills](https://github.c
 
 This is my own skill. It is not part of Matt Pocock's package, and the interview it draws on does not prescribe Spec Kit. That combination is my choice.
 
+## Works with any harness
+
+It is a plain `SKILL.md` folder, so it works in any agent or harness that reads skills: Claude Code, Codex, or an app that runs them, such as Enjoy. Nothing in it depends on one app.
+
 ## Install
 
 1. Install Matt Pocock's skills: https://github.com/mattpocock/skills (or see https://www.aihero.dev/skills).
@@ -16,6 +20,10 @@ This is my own skill. It is not part of Matt Pocock's package, and the interview
 4. In a fresh session, type `/pocock-workflow` (Claude Code) or `$pocock-workflow` (Codex) and check that it is listed.
 
 The skill runs with your agent's full permissions. Read it before you use it.
+
+## Licence
+
+MIT. See `LICENSE`.
 
 ## Credits
 
